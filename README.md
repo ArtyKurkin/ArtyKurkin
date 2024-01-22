@@ -4,7 +4,7 @@ I am a Python developer from the Moscow region.
 ### Skills:
 
 ### 📚 Frameworks:
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 <!--
 **ArtyKurkin/ArtyKurkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
