@@ -13,7 +13,11 @@ I am a Python developer from the Moscow region.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQLALCHEMY](https://img.shields.io/badge/SQLAlchemy-0C0C0E.svg?logo=Alchemy&logoColor=white)
+
+### 💬 Contacts:
+![Telegram(https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@Arty_kn) 
+
+
 
 <!--
 **ArtyKurkin/ArtyKurkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
