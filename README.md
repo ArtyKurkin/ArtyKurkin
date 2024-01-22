@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Artem.
+I am a Python developer from the Moscow region.
 
 <!--
 **ArtyKurkin/ArtyKurkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
